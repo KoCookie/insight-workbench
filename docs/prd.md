@@ -38,7 +38,7 @@ Inputs:
 
 Examples:
 
-- "China airline revenue management AI transformation"
+- "AI transformation in a traditional industry"
 - "New energy vehicle industry"
 - "Xiaohongshu business model"
 - "Semiconductor supply chain"
@@ -196,7 +196,7 @@ AI chat may exist as a secondary command interface, but the MVP should not be ce
 - Initial dashboard generation
 - Basic analysis tools
 - Research brief output
-- Airline revenue management demo dataset
+- Private benchmark research dataset
 
 ### Out of Scope for MVP
 
@@ -269,7 +269,7 @@ MVP success should be evaluated by:
 - Number of useful insight cards generated per source
 - User rating of dashboard usefulness
 - Percentage of claims linked to sources
-- Ability to reproduce a meaningful airline revenue management analysis from existing materials
+- Ability to reproduce a meaningful structured analysis from existing benchmark materials
 
 ## 9. Open Questions
 

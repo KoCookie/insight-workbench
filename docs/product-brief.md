@@ -78,9 +78,9 @@ AI should be involved at five moments:
 4. Update monitoring: identify new information and suggest which conclusions may need revision.
 5. Output creation: convert the research board into a report, slide outline, interview notes, or executive summary.
 
-## Initial Demo and Validation Plan
+## Initial Validation Plan
 
-The first validation case will use the airline revenue management AI transformation research project.
+The first validation case will use a private benchmark research project.
 
 The platform should attempt to generate:
 

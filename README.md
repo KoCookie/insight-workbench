@@ -32,7 +32,7 @@ The first version will focus on a single core flow:
 Create topic -> choose research goal -> generate blueprint -> add sources -> build dashboard -> deepen analysis -> export outputs
 ```
 
-The first demo and validation set will use an airline revenue management AI transformation project. The goal is to compare the platform's generated outputs with existing human research deliverables and use the gap to improve the product.
+The first validation set will use a private benchmark research project. The goal is to compare the platform's generated outputs with existing human research deliverables and use the gap to improve the product.
 
 ## Documentation
 

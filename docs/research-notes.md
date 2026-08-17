@@ -34,21 +34,20 @@ The main surface should not be a chat window.
 
 Users should not need to do heavy work during blueprint generation. The first meaningful user effort is adding or confirming sources, guided by the AI-generated source checklist.
 
-## Airline Revenue Management Demo
+## Private Benchmark Validation
 
-The first validation case will use an airline revenue management AI transformation project.
+The first validation case will use a private benchmark research project.
 
 Existing human research outputs include:
 
 - industry overview
 - value chain analysis
-- revenue management focus
 - AI technology to business scenario matrix
 - maturity assessment
-- ancillary revenue AI matching matrix
-- demand forecasting AI transformation roadmap
+- priority matrix
+- transformation roadmap
 
-The demo should test whether Insight Workbench can reconstruct similar outputs from source materials and identify gaps between AI-generated analysis and human research.
+The validation should test whether Insight Workbench can reconstruct similar outputs from source materials and identify gaps between AI-generated analysis and human research.
 
 ## Ideas to Revisit
 

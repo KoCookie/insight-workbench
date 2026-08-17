@@ -10,7 +10,7 @@ Deliverables:
 - PRD draft
 - MVP scope
 - Initial information architecture
-- Airline revenue management validation plan
+- Private benchmark validation plan
 
 ## Phase 1: Prototype
 
@@ -28,7 +28,7 @@ Target capabilities:
 
 Suggested validation:
 
-- Use the airline revenue management project as a demo topic
+- Use a private benchmark research project as a validation topic
 - Compare generated dashboard modules with existing human deliverables
 - Record missing information, weak reasoning, and unsupported claims
 
