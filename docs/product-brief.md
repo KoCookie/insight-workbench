@@ -6,7 +6,7 @@ Insight Workbench
 
 ## One-line Description
 
-An AI research workspace that turns sources into structured insights and analysis dashboards.
+An AI research workspace for turning scattered sources into structured, source-grounded research boards.
 
 ## Problem
 
@@ -14,18 +14,26 @@ People often need to understand an industry, company, policy, technology trend, 
 
 The core problem is not just "answer a question." The core problem is helping users build and maintain a structured understanding of a topic over time.
 
+This creates three recurring pain points:
+
+1. **Research starts from a blank page.** Users often do not know which questions to ask, which sources to collect, or which analysis structure fits the topic.
+2. **Sources do not become reusable assets.** Important facts, claims, citations, and data points remain buried inside documents or chat transcripts.
+3. **Research outputs are hard to update.** Once a brief or report is written, new information does not naturally flow back into the user's analysis.
+
 ## Product Positioning
 
-Insight Workbench is a project-based AI research workspace.
+Insight Workbench is a topic-based AI research workspace.
 
 It should not feel like a wrapped AI chatbot. The user should primarily interact with research boards, source libraries, insight cards, dashboards, matrices, timelines, frameworks, and outputs. AI should operate as an embedded engine that extracts, organizes, challenges, and updates the user's research.
+
+The product should feel lightweight for casual users and progressively deeper for advanced users. A first-time user should be able to create a topic board and get an initial research brief without learning consulting frameworks. A more advanced user should be able to continue into structured analysis, evidence management, and reusable outputs from the same board.
 
 ## Target Users
 
 ### Primary Users for MVP
 
 - Students preparing for interviews, applications, or coursework
-- Interns and junior analysts doing early-stage industry or company research
+- Interns and junior analysts doing early-stage industry, company, or trend research
 - Early-career professionals who need structured research outputs quickly
 
 ### Future Users
@@ -41,6 +49,16 @@ It should not feel like a wrapped AI chatbot. The user should primarily interact
 3. A junior analyst needs to organize sources, extract facts, and build analysis frameworks.
 4. A consultant wants to track evidence, update a research board, and reuse project templates.
 5. A user wants to monitor changes in a company, industry, or policy area over time.
+
+## MVP Focus
+
+The MVP should focus on one complete research workflow:
+
+```text
+Create topic -> choose research goal -> review blueprint -> add sources -> generate dashboard -> export brief
+```
+
+The first version should prove that a user can move from a vague research topic to a structured, editable, source-grounded research board faster than they could with manual note-taking or one-off AI chat.
 
 ## Product Principles
 
@@ -64,9 +82,26 @@ Every important claim should be traceable to a source, a note, or an explicit AI
 
 Dashboards, matrices, frameworks, timelines, and insight cards should be editable. AI should generate a starting point, not a locked final answer.
 
+### 6. Public-safe by Default
+
+The product and repository should avoid storing sensitive or confidential details in public documentation or sample data. Private benchmark materials can be used locally for validation, but public examples should remain generic or use openly available sources.
+
 ## MVP Hypothesis
 
 If users can create a topic, receive an AI-generated research blueprint, add sources with guidance, and receive an editable structured dashboard, they will find the product more valuable than one-off AI chat for research tasks.
+
+## MVP Non-goals
+
+The MVP should not attempt to solve every research workflow at once.
+
+Out of scope for the first version:
+
+- fully automated web crawling or real-time monitoring
+- team collaboration and enterprise permissions
+- complete report or slide deck generation
+- complex version control for every insight
+- paid data integrations
+- a general-purpose chatbot as the main product interface
 
 ## AI Role
 
@@ -80,16 +115,16 @@ AI should be involved at five moments:
 
 ## Initial Validation Plan
 
-The first validation case will use a private benchmark research project.
+The first validation case will use a private benchmark research project kept outside the public repository.
 
 The platform should attempt to generate:
 
 - industry brief
 - key fact cards
 - value chain view
-- AI technology to business scenario matrix
-- AI maturity assessment
+- structured analysis matrix
+- maturity or readiness assessment
 - priority matrix
-- Three Horizons roadmap
+- phased roadmap
 
 These outputs will be compared with existing human research deliverables to identify gaps in structure, evidence quality, reasoning, and usability.
