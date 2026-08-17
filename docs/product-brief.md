@@ -105,6 +105,8 @@ Out of scope for the first version:
 
 ## AI Role
 
+The MVP assumes integration with existing AI models and workflow-level configuration, not training a new domain-specific foundation model.
+
 AI should be involved at five moments:
 
 1. Research setup: generate blueprint, key questions, suggested modules, and source checklist.
