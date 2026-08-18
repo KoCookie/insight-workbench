@@ -39,6 +39,7 @@ The first validation set will use a private benchmark research project. The goal
 - [Product Brief](docs/product-brief.md)
 - [PRD Draft](docs/prd.md)
 - [MVP Success Metrics](docs/success-metrics.md)
+- [Glossary and Product Language Rules](docs/glossary.md)
 - [Roadmap](docs/roadmap.md)
 - [Research Notes](docs/research-notes.md)
 

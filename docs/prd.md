@@ -461,6 +461,8 @@ AI behavior requirements:
 
 ## 11. Initial Data Objects
 
+Product terms should follow [Glossary and Product Language Rules](glossary.md).
+
 ### Topic
 
 - id
