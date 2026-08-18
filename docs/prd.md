@@ -560,16 +560,18 @@ The MVP should handle common research workflow failures:
 
 ## 13. Success Metrics
 
-MVP success should be evaluated by:
+MVP success should be evaluated by whether users can move from a broad research topic to a useful, editable, source-grounded research board faster and more clearly than they could with manual note-taking or one-off AI chat.
 
-- Time from topic creation to usable dashboard
-- Number of useful insight cards generated per source
-- User rating of dashboard usefulness
-- Percentage of claims linked to sources
-- Ability to reproduce a meaningful structured analysis from existing benchmark materials
-- Number of evidence gaps correctly identified
-- Percentage of users who continue from dashboard to at least one deeper analysis artifact
-- Percentage of users who act on at least one suggested follow-up from the coverage checklist
+Primary MVP metrics:
+
+- Time to useful research board
+- First core flow completion rate
+- Dashboard usefulness rating
+- Percentage of major claims linked to sources, notes, or explicit assumptions
+- Number and quality of useful research gaps identified
+- Percentage of users who continue from the dashboard into at least one follow-up action
+
+See [MVP Success Metrics](success-metrics.md) for detailed metric definitions, validation questions, failure signals, and metrics that should not drive the first MVP.
 
 ## 14. Open Questions
 
