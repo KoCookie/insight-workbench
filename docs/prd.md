@@ -58,6 +58,8 @@ The flow should not be treated as a single input-output sequence. The initial da
 
 The product should organize work around a `Topic Board`.
 
+See [Information Architecture](information-architecture.md) for the detailed navigation model and page structure.
+
 ```text
 Topic Board
 -> Sources
