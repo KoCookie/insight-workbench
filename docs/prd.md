@@ -86,6 +86,8 @@ The first goal selected by the user becomes the primary view. Additional views c
 
 Purpose: provide a simple entry point.
 
+See [Onboarding and Topic Creation Flow](onboarding-topic-flow.md) for detailed new-user guidance and topic creation behavior.
+
 Primary action:
 
 - "What do you want to research?"
@@ -191,6 +193,8 @@ Acceptance criteria:
 
 Purpose: help users collect and manage evidence.
 
+See [Source Library and Coverage Checklist Structure](source-library-coverage.md) for detailed source categories, status values, and coverage behavior.
+
 Source input methods:
 
 - Upload local files
@@ -235,6 +239,8 @@ Acceptance criteria:
 
 Purpose: provide the main research board.
 
+See [Dashboard and Research View Requirements](dashboard-research-views.md) for dashboard structure, Research View behavior, and AI action placement.
+
 Default widgets:
 
 - Executive brief
@@ -261,6 +267,8 @@ Acceptance criteria:
 ### 6.6 Analysis Lab
 
 Purpose: support deeper structured analysis.
+
+See [Output and Analysis Artifact Structure](outputs-analysis-artifacts.md) for analysis artifact structure and output generation rules.
 
 Initial analysis tools:
 
@@ -303,6 +311,8 @@ Examples of deep analysis triggers:
 ### 6.7 Outputs
 
 Purpose: turn research assets into shareable deliverables.
+
+See [Output and Analysis Artifact Structure](outputs-analysis-artifacts.md) for output types, source reference rules, and export boundaries.
 
 Initial outputs:
 

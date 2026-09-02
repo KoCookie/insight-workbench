@@ -42,6 +42,10 @@ The first validation set will use a private benchmark research project. The goal
 - [Glossary and Product Language Rules](docs/glossary.md)
 - [Information Architecture](docs/information-architecture.md)
 - [Topic Board Information Model](docs/topic-board-model.md)
+- [Onboarding and Topic Creation Flow](docs/onboarding-topic-flow.md)
+- [Source Library and Coverage Checklist Structure](docs/source-library-coverage.md)
+- [Dashboard and Research View Requirements](docs/dashboard-research-views.md)
+- [Output and Analysis Artifact Structure](docs/outputs-analysis-artifacts.md)
 - [Roadmap](docs/roadmap.md)
 - [Research Notes](docs/research-notes.md)
 
