@@ -464,6 +464,7 @@ AI behavior requirements:
 ## 11. Initial Data Objects
 
 Product terms should follow [Glossary and Product Language Rules](glossary.md).
+See [Topic Board Information Model](topic-board-model.md) for detailed object relationships, lifecycle states, and MVP simplification rules.
 
 ### Topic
 

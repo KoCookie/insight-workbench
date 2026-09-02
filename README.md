@@ -41,6 +41,7 @@ The first validation set will use a private benchmark research project. The goal
 - [MVP Success Metrics](docs/success-metrics.md)
 - [Glossary and Product Language Rules](docs/glossary.md)
 - [Information Architecture](docs/information-architecture.md)
+- [Topic Board Information Model](docs/topic-board-model.md)
 - [Roadmap](docs/roadmap.md)
 - [Research Notes](docs/research-notes.md)
 
